@@ -2,7 +2,7 @@
   "name": "shoppingcart",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Duvie15.github.io/e-plantShopping/",
+  "homepage": "https://duvie15.github.io/e-plantShopping/",
   "type": "module",
   "scripts": {
     "dev": "vite",
